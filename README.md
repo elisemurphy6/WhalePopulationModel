@@ -107,7 +107,7 @@ A simple repository layout could be:
 
 - `README.md` contains the project explanation and usage instructions.
 - `whales.jl` contains the model, Euler simulations, and plotting commands.
-- 'Plots' contains the model's output for each simulation in numerical order. 
+- 'Plots' A pdf containing the model's output for each simulation in numerical order. 
 
 ## Requirements
 
